@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Sale And Rent</string>
+    <string name="welcome">Welcome</string>
+    <string name="house1_name">Lake View House</string>
+    <string name="house1_description">This spacious house offers breathtaking views of the lake, making it perfect for family gatherings and nature lovers. It features an open floor plan, a modern kitchen, cozy bedrooms, and a spacious living area where you can enjoy sunset views.</string>
+    <string name="house1_short_description">Spacious house with lake views, ideal for family outings.</string>
+    <string name="house1_characteristics">3 bedrooms (master with en-suite), 2 bathrooms, 150 m², lake access, large garden with patio, fireplace, modern kitchen with stainless steel appliances, hardwood floors, energy-efficient windows, private boat dock.</string>
+
+    <string name="house2_name">Modern Cottage</string>
+    <string name="house2_description">This eco-friendly modern cottage boasts an open layout with large windows that flood the space with natural light. It includes a cozy terrace for outdoor relaxation and entertaining, along with a stylish kitchen and living room designed for comfort.</string>
+    <string name="house2_short_description">Modern cottage with an open layout and large windows.</string>
+    <string name="house2_characteristics">4 bedrooms (including guest suite), 3 bathrooms, 200 m², eco-friendly materials, large terrace with seating area, spacious living room with fireplace, gourmet kitchen with island, energy-efficient appliances, landscaped garden.</string>
+
+    <string name="house3_name">Rustic Country House</string>
+    <string name="house3_description">A charming rustic country house surrounded by lush fields and forests. This home features a traditional fireplace and a spacious garden, making it perfect for those seeking peace and tranquility. It has cozy bedrooms and a kitchen with a dining area for family meals.</string>
+    <string name="house3_short_description">Charming rustic country house with a fireplace and garden.</string>
+    <string name="house3_characteristics">2 bedrooms (including a loft), 1 bathroom, 100 m², expansive garden, traditional wood-burning fireplace, country-style kitchen with rustic cabinetry, wrap-around porch, proximity to hiking trails, pet-friendly.</string>
+
+    <string name="house4_name">Eco-Friendly Home</string>
+    <string name="house4_description">This eco-friendly home features solar panels and energy-efficient technologies. Inside, you’ll find a spacious open plan design, a large kitchen, and comfortable bedrooms, perfect for modern living. The outdoor space includes a garden with fruit trees and ornamental plants.</string>
+    <string name="house4_short_description">Eco-friendly home with solar panels and energy-efficient design.</string>
+    <string name="house4_characteristics">3 bedrooms (including a master suite), 2 bathrooms, 180 m², solar panels, energy-efficient appliances, large garden with fruit trees, rainwater harvesting system, open-concept living area, home office space.</string>
+
+    <string name="house5_name">Summer Cottage</string>
+    <string name="house5_description">This small summer cottage is located in a picturesque area, ideal for a nature getaway. It features an open porch perfect for barbecues and a cozy interior, making it a great spot for short vacations and peaceful weekends away from the city.</string>
+    <string name="house5_short_description">Small summer cottage, perfect for nature retreats.</string>
+    <string name="house5_characteristics">1 bedroom (with bunk beds), 1 bathroom, 50 m², open porch with barbecue grill, fully equipped kitchenette, cozy living area, proximity to hiking trails, outdoor fire pit, great for family and friends.</string>
+
+    <string name="house6_name">Luxury Mansion</string>
+    <string name="house6_description">This luxurious mansion features a swimming pool and a private gym, offering all the comforts for modern living. With spacious rooms, high ceilings, and stylish decor, this home is perfect for those who appreciate luxury and comfort. A large terrace provides a perfect spot for sunny days.</string>
+    <string name="house6_short_description">Luxury mansion with a swimming pool and gym.</string>
+    <string name="house6_characteristics">5 bedrooms (including a master suite with walk-in closet), 4 bathrooms, 350 m², heated swimming pool, home gym, cinema room, gourmet kitchen with high-end appliances, expansive terrace with outdoor kitchen, landscaped garden with water features.</string>
+
+    <string name="house7_name">Classic House</string>
+    <string name="house7_description">A classic house with a majestic façade and a cozy ambiance. This home features traditional architecture combined with modern amenities, including a stylish kitchen and spacious rooms. The surrounding garden creates a serene atmosphere for relaxation.</string>
+    <string name="house7_short_description">Classic house with a majestic façade and cozy ambiance.</string>
+    <string name="house7_characteristics">4 bedrooms (including a guest room), 3 bathrooms, 220 m², traditional architecture with modern upgrades, large garden with mature trees, open-concept kitchen and dining area, hardwood floors throughout, fireplace in the living room.</string>
+
+    <string name="house8_name">House with Terrace</string>
+    <string name="house8_description">This house features a large terrace and garden, perfect for family dinners and outdoor gatherings. Inside, you’ll find bright and cozy rooms that create a warm atmosphere. It’s an excellent place for relaxation and outdoor entertainment.</string>
+    <string name="house8_short_description">House with a large terrace and garden for family gatherings.</string>
+    <string name="house8_characteristics">3 bedrooms (including a master suite), 2 bathrooms, 160 m², expansive terrace with outdoor dining, landscaped garden with flower beds, modern kitchen with island, spacious living room, close to parks and amenities.</string>
+
+    <string name="house9_name">Minimalist House</string>
+    <string name="house9_description">A minimalist house with a simple and stylish design. It offers open spaces where every element is thoughtfully designed. Ideal for individuals who appreciate simplicity and functionality in their living environment.</string>
+    <string name="house9_short_description">Stylish minimalist house with open spaces.</string>
+    <string name="house9_characteristics">2 bedrooms (one convertible), 1 bathroom, 80 m², open floor plan, modern design with clean lines, energy-efficient windows, small garden area, perfect for urban living.</string>
+
+    <string name="house10_name">Cottage by the Forest</string>
+    <string name="house10_description">A cozy cottage located near the forest, perfect for weekend getaways. This home offers all the comforts of modern living, with a spacious kitchen and inviting rooms. A great place for outdoor activities and enjoying nature.</string>
+    <string name="house10_short_description">Cozy cottage near the forest, ideal for weekend getaways.</string>
+    <string name="house10_characteristics">2 bedrooms (including a loft), 1 bathroom, 70 m², rustic charm with modern amenities, large deck for outdoor lounging, fully equipped kitchen, hiking trails nearby, pet-friendly.</string>
+
+    <string name="house11_name">Nature Harmony Home</string>
+    <string name="house11_description">This home is surrounded by nature, featuring a large garden and a pond, allowing you to enjoy peace and the beauty of the outdoors. Spacious rooms and a large terrace make it an ideal place for family gatherings and outdoor enjoyment.</string>
+    <string name="house11_short_description">Home in harmony with nature, surrounded by a beautiful garden.</string>
+    <string name="house11_characteristics">3 bedrooms (including a master suite), 2 bathrooms, 190 m², expansive garden with pond, outdoor seating areas, modern kitchen, large living room with panoramic windows, ideal for nature lovers.</string>
+
+    <string name="house12_name">Cottage with Fireplace</string>
+    <string name="house12_description">A cozy cottage featuring a fireplace and wooden finishes that create a warm atmosphere. Ideal for winter evenings and intimate gatherings with friends. Inside, you’ll find a modern kitchen and comfortable bedrooms for relaxation after an active day.</string>
+    <string name="house12_short_description">Cozy cottage with a fireplace and wooden finishes.</string>
+    <string name="house12_characteristics">2 bedrooms (including a master suite), 1 bathroom, 120 m², wood-burning fireplace, modern kitchen with dining area, large windows for natural light, outdoor fire pit for gatherings.</string>
+
+    <string name="house13_name">Modern Loft</string>
+    <string name="house13_description">A stylish loft with an open layout and high ceilings, offering a unique combination of modern design and comfort. Perfect for young professionals and creative individuals who value space and light in their living environment.</string>
+    <string name="house13_short_description">Modern loft with an open layout and high ceilings.</string>
+    <string name="house13_characteristics">1 bedroom, 1 bathroom, 90 m², high ceilings with exposed beams, modern kitchen, open living space, large windows with city views, ideal for urban living.</string>
+
+    <string name="house14_name">Traditional House</string>
+    <string name="house14_description">A traditional house with a cozy atmosphere and spacious rooms, offering comfort and style. Ideal for family living, with a separate kitchen and living room where you can spend quality time together.</string>
+    <string name="house14_short_description">Traditional house with a cozy atmosphere and spacious rooms.</string>
+    <string name="house14_characteristics">3 bedrooms (including a guest room), 2 bathrooms, 160 m², family-friendly layout, large kitchen with dining area, backyard for children’s play, close to schools and parks.</string>
+
+    <string name="house15_name">Cottage by the Sea</string>
+    <string name="house15_description">A seaside cottage with stunning views and direct access to the beach. Perfect for those who want to enjoy the sea breeze and sunny days. Spacious rooms and a terrace for outdoor dining create ideal conditions for relaxation.</string>
+    <string name="house15_short_description">Seaside cottage with direct beach access.</string>
+    <string name="house15_characteristics">4 bedrooms (including a master suite with balcony), 3 bathrooms, 240 m², beachfront access, large terrace for entertaining, fully equipped kitchen, outdoor shower, perfect for beach lovers.</string>
+</resources>
