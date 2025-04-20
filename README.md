@@ -1,4 +1,4 @@
-# SafetyAndCheap
+# SaleAndRent
 Приложение для просмотра и покупки жилья
 ![Static Badge](https://img.shields.io/badge/ArtemShaputko-SafetyAndCheap-Blue)
 
