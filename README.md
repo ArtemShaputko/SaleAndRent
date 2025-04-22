@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/ArtemShaputko-SafetyAndCheap-Blue)
 
 <!--Установка-->
-## Установка (Android studio)
+## Установка (Android Studio)
 У вас должна быть установлена [Android Studio](https://developer.android.com/studio)
 
 1. Зайти во вкладу File > New > Project from Version Control > Git
